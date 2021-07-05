@@ -12,10 +12,12 @@ body{
 }
 a{
 	 text-decoration:none;
+	 color:gold;
 }
-a:hover {
-  color: red;
-  text-decoration:none;
+a:hover{
+	 text-decoration:none;
+	 color:red;
+}
 }
 footer{
 	text-align: right;
@@ -63,3 +65,11 @@ header{
 }
 .card img{
 	width: 25%;
+	margin-right: 5%;
+}
+form{
+	margin-left: 5%;
+}
+form input{
+	margin-left: 5px;
+}
