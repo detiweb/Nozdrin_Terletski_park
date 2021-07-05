@@ -18,7 +18,6 @@ a:hover{
 	 text-decoration:none;
 	 color:red;
 }
-}
 footer{
 	text-align: right;
 	background:#808080;
@@ -68,8 +67,14 @@ header{
 	margin-right: 5%;
 }
 form{
-	margin-left: 5%;
+	margin: 5%;
+	font-family: 'Bona Nova', serif;
 }
 form input{
 	margin-left: 5px;
+	border: 4px solid grey;
+	border-radius: 5%;
+	background: gold;
+	color: purple;
+	font-family: 'Bona Nova', serif;
 }
